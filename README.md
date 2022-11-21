@@ -1,2 +1,2 @@
 # Dataset
-Information of dataset I have used often.
+Every dataset presented here have their own license. I am not in any way responsible for the usage or misuse of any dataset associated license.
